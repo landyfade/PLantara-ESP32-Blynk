@@ -9,4 +9,6 @@ Alat dan Komponen :
 - led pin 2 pcs (merah, hijau)
 - 2 resistor
 - selang 7mm beserta sprinkler adjustable dripper, katup keran, dll (opsional)
+
+prototipe:  
 ![PLantara_iot](https://github.com/user-attachments/assets/4740c3a0-4e11-4627-bf3a-4d416984160c)
